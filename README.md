@@ -19,4 +19,4 @@
 <li><a target="_blank" href="mailto:provat97@gmail.com">Reach Me</a></li>
 <li><a target="_blank" href="https://docs.google.com/document/d/1m345W081Av2rFmekgBJRr9FXp8vb3UM9iq4F9wTxxKw/edit?usp=sharing">Know about my experiences</a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/provat-naga-92013a1b4/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/provat-naga-92013a1b4/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
